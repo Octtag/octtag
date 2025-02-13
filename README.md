@@ -1,95 +1,60 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Octavio Gonzalez Manucci | Full Stack Developer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-            text-align: center;
-        }
-        .container {
-            max-width: 800px;
-            margin: 40px auto;
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        }
-        h1 {
-            color: #0078D7;
-        }
-        h2 {
-            color: #444;
-        }
-        p {
-            font-size: 18px;
-            line-height: 1.5;
-        }
-        .social-icons a {
-            margin: 0 10px;
-            text-decoration: none;
-            color: #0078D7;
-            font-size: 24px;
-        }
-        .button {
-            display: inline-block;
-            margin: 20px 10px;
-            padding: 10px 20px;
-            color: white;
-            background-color: #0078D7;
-            text-decoration: none;
-            border-radius: 5px;
-            font-weight: bold;
-        }
-        .button:hover {
-            background-color: #0056b3;
-        }
-    </style>
-</head>
-<body>
+<h1 align="center"><b>Hola, soy Octavio Gonzalez Manucci</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-    <div class="container">
-        <h1>🚀 Octavio Gonzalez Manucci</h1>
-        <h2>Full Stack Developer | Tech Innovator</h2>
-        <p>
-            Soy un desarrollador Full Stack con enfoque estratégico en la creación de soluciones tecnológicas innovadoras 
-            y escalables. Me apasiona transformar ideas en herramientas concretas que mejoran la vida de las personas y 
-            optimizan procesos en diversos sectores. 
-        </p>
-        <p>
-            Actualmente, soy fundador y desarrollador en <strong>Simplepass</strong>, una plataforma de ticketing online que 
-            prioriza la experiencia del usuario e innova en el sector del entretenimiento y eventos.
-        </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Tech+Innovator;Emprendedor+Tecnológico;Apasionado+por+la+Innovación;Siempre+aprendiendo+algo+nuevo...🚀">
+  </a>
+</p>
 
-        <h3>💼 Experiencia</h3>
-        <ul style="text-align: left; display: inline-block;">
-            <li>Founder & Developer en <a href="https://www.simplepass.com.ar/nosotros" target="_blank">Simplepass</a></li>
-            <li>Desarrollo e implementación de sistemas de pago para la Universidad Nacional de Entre Ríos</li>
-            <li>Implementación de sistemas cashless para eventos en Entre Ríos</li>
-            <li>Experiencia internacional en servicio al cliente en EE.UU. (Truckee, Miami)</li>
-        </ul>
+<br>
 
-        <h3>🎓 Educación</h3>
-        <p>
-            📌 <strong>Bachelor’s Degree in Business Management</strong> (UCES, 2023-2024) <br>
-            📌 <strong>Certified Tech Developer</strong> - Digital House (Beca de Mercado Libre & Globant, 2022-2024)
-        </p>
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre mí**
 
-        <h3>🔗 Conéctate conmigo</h3>
-        <div class="social-icons">
-            <a href="https://octaviogonzalezmanucci.com" target="_blank">🌍 Web Personal</a>
-            <a href="https://github.com/tu-github" target="_blank">🐙 GitHub</a>
-            <a href="https://linkedin.com/in/tu-linkedin" target="_blank">💼 LinkedIn</a>
-        </div>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
 
-        <a class="button" href="mailto:octaviogonzalezmanucci@hotmail.com">📧 Contacto</a>
-    </div>
+- 🚀 **Founder & Developer** en [Simplepass](https://www.simplepass.com.ar/nosotros)  
+- 💳 Desarrollo e implementación de sistemas de pago para la **Universidad Nacional de Entre Ríos**  
+- 🎟 Implementación de **sistemas cashless** para eventos en Entre Ríos  
+- 🌎 Experiencia internacional en servicio al cliente en **Truckee, California y Miami, Florida**  
+- 📚 Actualmente, cursando **Certified Tech Developer** con beca de Mercado Libre & Globant  
 
-</body>
-</html>
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
+<br>
+
+### **Lenguajes de Programación**:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+### **Desarrollo Front-End**:
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Desarrollo Back-End**:
+![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+### **Bases de Datos**:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **Herramientas y DevOps**:
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+<br>
+
+<div align="center">
+  <a href="https://github.com/octaviogonzalezmanucci">
+    <img src="https://github-readme-stats.vercel.app/api?username=octaviogonzalezmanucci&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=octaviogonzalezmanucci&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0
