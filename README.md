@@ -11,14 +11,12 @@
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50px"> **About Me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 ### 🌐 **Web Projects – From Design to Production**
 - 🚀 **Founder & Developer** at [Simplepass](https://www.simplepass.com.ar/nosotros), an online ticketing platform focused on optimizing user experience.  
-- 💳 Developed and implemented payment systems for the **National University of Entre Ríos**.  
-- 🎟 Designed and implemented **cashless payment systems** for large-scale events in Entre Ríos, improving transaction efficiency.  
+- 💳 Developed and implemented payment systems for the **National University of Entre Ríos**, [UNER Gestíon Financiera](https://gestionfinanciera.uner.edu.ar/).  
+- 🎟 Designed and implemented **NFC cashless payment systems** for large-scale events in Entre Ríos, improving transaction efficiency, [Airport club](https://airportclub.com.ar/).
 
 ### 🎓 **Education**
 - 🎓 **Certified Tech Developer** – *Professional Developer, Digital House (2022-2024, Scholarship by Mercado Libre & Globant)*  
@@ -46,14 +44,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Integraciones**:
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-00B1EA.svg?style=for-the-badge&logo=mercadopago&logoColor=white)
-![Mobbex](https://img.shields.io/badge/Mobbex-7D3C98.svg?style=for-the-badge&logo=mobbex&logoColor=white)
-![AFIP SDK](https://img.shields.io/badge/AFIP%20SDK-0077C5.svg?style=for-the-badge&logo=afip&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Email API](https://img.shields.io/badge/Email%20API-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)
-
 ### **Backend Development**:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -65,6 +55,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### **Integraciones**:
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-00B1EA.svg?style=for-the-badge&logo=mercadopago&logoColor=white)
+![Mobbex](https://img.shields.io/badge/Mobbex-7D3C98.svg?style=for-the-badge&logo=mobbex&logoColor=white)
+![AFIP SDK](https://img.shields.io/badge/AFIP%20SDK-0077C5.svg?style=for-the-badge&logo=afip&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Email API](https://img.shields.io/badge/Email%20API-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)
+
 ### **DevOps & Tools**:
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -72,13 +70,6 @@
 ![VPS](https://img.shields.io/badge/VPS-FF9900.svg?style=for-the-badge&logo=server&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-<br>
-
----
 
 ## <b>Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <br>
