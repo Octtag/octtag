@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Innovative+and+scalable+digital+solutions;Passionate+about+technology+and+Continuous+Learning...🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Building+innovative+and+scalable+solutions;Passionate+about+technology+and+continuous+learning...🚀">
   </a>
 </p>
 
@@ -21,7 +21,9 @@
 
 ### 🎓 **Education**
 - 🎓 **Certified Tech Developer** – *Professional Developer, Digital House (2022-2024, Scholarship by Mercado Libre & Globant)*  
-- 🎓 **Bachelor’s Degree in Business Management** – *UCES (2018-2023)*  
+- 🎓 **Bachelor’s Degree in Business Management** – *UCES (2018-2023)*
+- 🎓 **First Certificate in English (FCE)** – *Cambridge (2021) - Score: 173 (B2)*
+- 🎓 **IELTS General Training** – *British Council (2022) - Score: 6.5 (B2)*
 
 ### 🌎 **Work Experience in the U.S.**
 - 🏔 Worked in **Truckee, California** at a ski resort, gaining valuable experience in customer service and operational logistics.  
