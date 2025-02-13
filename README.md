@@ -2,15 +2,17 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Specialized+in+Innovative+and+Scalable+Digital+Solutions;Passionate+about+Technology+and+Continuous+Learning...🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Innovative+and+scalable+digital+solutions;Passionate+about+technology+and+Continuous+Learning...🚀">
   </a>
 </p>
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50px"> **About Me**
 
-<picture> <img align="right" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzk5NDE5RCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIHN0cm9rZS1kYXNoYXJyYXk9IjY0IiBzdHJva2UtZGFzaG9mZnNldD0iNjQiIGQ9Ik0xMiAzYzQuOTcgMCA5IDQuMDMgOSA5YzAgNC45NyAtNC4wMyA5IC05IDljLTQuOTcgMCAtOSAtNC4wMyAtOSAtOWMwIC00Ljk3IDQuMDMgLTkgOSAtOVoiPjxhbmltYXRlIGZpbGw9ImZyZWV6ZSIgYXR0cmlidXRlTmFtZT0ic3Ryb2tlLWRhc2hvZmZzZXQiIGR1cj0iMC42cyIgdmFsdWVzPSI2NDswIi8+PC9wYXRoPjxwYXRoIHN0cm9rZS1kYXNoYXJyYXk9IjgiIHN0cm9rZS1kYXNob2Zmc2V0PSI4IiBkPSJNMTIgN3Y2Ij48YW5pbWF0ZSBmaWxsPSJmcmVlemUiIGF0dHJpYnV0ZU5hbWU9InN0cm9rZS1kYXNob2Zmc2V0IiBiZWdpbj0iMC42cyIgZHVyPSIwLjJzIiB2YWx1ZXM9Ijg7MCIvPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InN0cm9rZS13aWR0aCIgYmVnaW49IjEuOHMiIGR1cj0iM3MiIGtleVRpbWVzPSIwOzAuMTswLjI7MC4zOzEiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiB2YWx1ZXM9IjI7MzszOzI7MiIvPjwvcGF0aD48cGF0aCBzdHJva2UtZGFzaGFycmF5PSIyIiBzdHJva2UtZGFzaG9mZnNldD0iMiIgZD0iTTEyIDE3djAuMDEiPjxhbmltYXRlIGZpbGw9ImZyZWV6ZSIgYXR0cmlidXRlTmFtZT0ic3Ryb2tlLWRhc2hvZmZzZXQiIGJlZ2luPSIwLjhzIiBkdXI9IjAuMnMiIHZhbHVlcz0iMjswIi8+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ic3Ryb2tlLXdpZHRoIiBiZWdpbj0iMi4xcyIgZHVyPSIzcyIga2V5VGltZXM9IjA7MC4xOzAuMjswLjM7MSIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIHZhbHVlcz0iMjszOzM7MjsyIi8+PC9wYXRoPjwvZz48L3N2Zz4=" width="30px"></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
 
 ### 🌐 **Web Projects – From Design to Production**
 - 🚀 **Founder & Developer** at [Simplepass](https://www.simplepass.com.ar/nosotros), an online ticketing platform focused on optimizing user experience.  
@@ -18,8 +20,8 @@
 - 🎟 Designed and implemented **cashless payment systems** for large-scale events in Entre Ríos, improving transaction efficiency.  
 
 ### 🎓 **Education**
-- 🎓 **Bachelor’s Degree in Business Management** – *UCES (2018-2023)*  
 - 🎓 **Certified Tech Developer** – *Professional Developer, Digital House (2022-2024, Scholarship by Mercado Libre & Globant)*  
+- 🎓 **Bachelor’s Degree in Business Management** – *UCES (2018-2023)*  
 
 ### 🌎 **Work Experience in the U.S.**
 - 🏔 Worked in **Truckee, California** at a ski resort, gaining valuable experience in customer service and operational logistics.  
