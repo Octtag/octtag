@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Tech+enthusiast;Building+scalable+solutions;Continuos+learning...🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Full+Stack+Developer;Full+Stack+Developer">
   </a>
 </p>
 
@@ -17,16 +17,6 @@
 - 🚀 **Founder & Developer** at [Simplepass](https://www.simplepass.com.ar/nosotros), an online ticketing platform focused on optimizing user experience.  
 - 💳 Developed and implemented payment systems for the **National University of Entre Ríos**, [UNER Gestíon Financiera](https://gestionfinanciera.uner.edu.ar/).  
 - 🎟 Designed and implemented **NFC cashless payment systems** for large-scale events in Entre Ríos, improving transaction efficiency, [Airport club](https://airportclub.com.ar/).
-
-### 🎓 **Education**
-- 🎓 **Certified Tech Developer** – *Professional Developer, Digital House (2022-2024, Scholarship by Mercado Libre & Globant)*  
-- 🎓 **Bachelor’s Degree in Business Management** – *UCES (2018-2023)*
-- 🎓 **First Certificate in English (FCE)** – *Cambridge (2021) - Score: 173 (B2)*
-- 🎓 **IELTS General Training** – *British Council (2022) - Score: 6.5 (B2)*
-
-### 🌎 **Work Experience in the U.S.**
-- 🏔 Worked in **Truckee, California** at a ski resort, gaining valuable experience in customer service and operational logistics.  
-- 🍽 Worked at **A Fish Called Avalon** restaurant in **Miami, Florida**, refining my communication and problem-solving skills in a fast-paced hospitality environment.  
 
 ---
 
@@ -70,6 +60,12 @@
 ![VPS](https://img.shields.io/badge/VPS-FF9900.svg?style=for-the-badge&logo=server&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+
+### 🎓 **Education**
+- 🎓 **Certified Tech Developer** – *Professional Developer, Digital House (2022-2024, Scholarship by Mercado Libre & Globant)*  
+- 🎓 **Bachelor’s Degree in Business Management** – *UCES (2018-2023)*
+- 🎓 **First Certificate in English (FCE)** – *Cambridge (2021) - Score: 173 (B2)*
+- 🎓 **IELTS General Training** – *British Council (2022) - Score: 6.5 (B2)*
 
 ## <b>Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <br>
