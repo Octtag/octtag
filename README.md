@@ -14,7 +14,8 @@
 <br>
 
 ### 🌐 **Web Projects – From Design to Production**
-- 🚀 **Founder & Developer** at [Simplepass](https://www.simplepass.com.ar/nosotros), an online ticketing platform focused on optimizing user experience.  
+- 🚀 **Developer** at [Simplepass](https://www.simplepass.com.ar/nosotros), an online ticketing platform focused on optimizing user experience.
+- 📱 Simplepass App for [Android](https://play.google.com/store/apps/details?id=com.anonymous.simplepassapp) and [Ios](https://apps.apple.com/ar/app/simplepass/id6746348491)
 - 💳 Developed and implemented payment systems for the **National University of Entre Ríos**, [UNER Gestíon Financiera](https://gestionfinanciera.uner.edu.ar/).  
 - 🎟 Designed and implemented **NFC cashless payment systems** for large-scale events in Entre Ríos, improving transaction efficiency, [Airport club](https://airportclub.com.ar/).
 
