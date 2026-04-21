@@ -7,24 +7,6 @@
 </p>
 
 
-<br>
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50px"> **About Me**
-
-<br>
-
-### 🌐 **Web Projects – From Design to Production**
-- 🚀 **Developer** at [Simplepass](https://www.simplepass.com.ar/nosotros), an online ticketing platform focused on optimizing user experience.
-- 📱 Simplepass App for [Android](https://play.google.com/store/apps/details?id=com.anonymous.simplepassapp) and [Ios](https://apps.apple.com/ar/app/simplepass/id6746348491)
-- 💳 Developed and implemented payment systems for the **National University of Entre Ríos**, [UNER Gestíon Financiera](https://gestionfinanciera.uner.edu.ar/).  
-- 🎟 Designed and implemented **NFC cashless payment systems** for large-scale events in Entre Ríos, improving transaction efficiency, [Airport club](https://airportclub.com.ar/).
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
-<br>
-
-
 ### **Frontend Development**:
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
